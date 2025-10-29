@@ -53,8 +53,8 @@
 
 ## 📫 Connect with Me
 
-- **Email:** [Sai Varshith](alonewalker07827@gmail.com)
-- **LinkedIn:** [Sai Varshith](www.linkedin.com/in/venkata-sai-varshith-s-1889442a6)
+- **Email:** [Sai Varshith](mailto:alonewalker07827@gmail.com)
+- **LinkedIn:** [Sai Varshith](https://www.linkedin.com/in/venkata-sai-varshith-s-1889442a6)
 - **Location:** Visakhapatnam, India
 
 ---

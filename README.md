@@ -1,31 +1,197 @@
-<h1 align="center">Hi 👋, I'm Varshith</h1>
-<h3 align="center">Most people love average I don't. Hustler</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varshith07827&label=Profile%20views&color=0e75b6&style=flat" alt="varshith07827" /> </p>
+# Varshith
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varshith07827" alt="varshith07827" /></a> </p>
+### Building systems that mix AI, automation, software, and hardware.
 
-- 🔭 I’m currently working on **Multiple projects**
-
-- 🌱 I’m currently learning **RPA and Automations**
-
-- 👯 I’m looking to collaborate on **Agentic AI Projects**
-
-- 🤝 I’m looking for help with **React Projects**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **alonewalker07827@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="mailto:alonewalker07827@gmail.com">Email</a> •
+  <a href="https://github.com/varshith07827">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith07827&show_icons=true&locale=en&layout=compact" alt="varshith07827" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshith07827&show_icons=true&locale=en" alt="varshith07827" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshith07827&" alt="varshith07827" /></p>
+I like building things that feel slightly over-engineered for no reason other than curiosity.
+
+Most of my work lives somewhere between:
+
+- AI experimentation
+- automation systems
+- NFC/payment workflows
+- developer tooling
+- embedded + hardware integrations
+- Linux and infrastructure tinkering
+
+Currently exploring how intelligent systems interact with real-world workflows instead of staying trapped inside demos.
+
+---
+
+## Current Focus
+
+```txt
+→ Agentic AI systems
+→ RPA + workflow automations
+→ NFC-based transaction systems
+→ AI + embedded integrations
+→ Dev tooling and system optimization
+→ Real-world software architecture
+```
+
+---
+
+## Engineering Interests
+
+| Area | What I Like Building |
+|---|---|
+| AI/ML | GAN experiments, intelligent workflows, automation agents |
+| Systems | Linux environments, tooling, infrastructure, optimization |
+| Hardware | NFC systems, sensors, embedded integrations |
+| Backend | APIs, automation pipelines, database-backed systems |
+| Developer Experience | Productivity tooling, scripting, workflow simplification |
+| Experimentation | Trying weird ideas just to see if they break gloriously |
+
+---
+
+## Featured Builds
+
+### ByteCoins — NFC Payment Ecosystem
+An NFC-powered transaction system designed for controlled real-world usage scenarios.
+
+**Focus areas**
+- Secure NFC workflows
+- Role-based admin control
+- Authentication systems
+- Payment integration architecture
+- Java backend logic
+
+---
+
+### AI Art Generation Experiments
+Building GAN/TensorFlow-based systems for procedural and AI-assisted art generation.
+
+**Exploring**
+- image synthesis
+- model optimization
+- GPU workflows
+- training pipelines
+
+---
+
+### Automation & RPA Workflows
+Experimenting with systems that reduce repetitive digital work using automation agents and workflow orchestration.
+
+Tech includes:
+- Selenium
+- Puppeteer
+- Python automation
+- scripting pipelines
+
+---
+
+### Embedded Obstacle Detection System
+Real-time obstacle detection using ultrasonic sensors + servo motion systems.
+
+Built around:
+- hardware interaction
+- sensor control
+- real-time feedback systems
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
+
+---
+
+### AI / Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
+
+---
+
+### Backend / Infra
+
+![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
+
+---
+
+### Automation / Tooling
+
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![Selenium](https://img.shields.io/badge/Selenium-111?style=for-the-badge&logo=selenium)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-111?style=for-the-badge&logo=puppeteer)
+![Arduino](https://img.shields.io/badge/Arduino-111?style=for-the-badge&logo=arduino)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=varshith07827&show_icons=true&hide_border=true&theme=transparent" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith07827&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Currently Learning
+
+- Agentic AI architectures
+- Automation orchestration
+- Better system design patterns
+- GPU optimization workflows
+- Production-grade application structure
+
+---
+
+## Philosophy
+
+```txt
+Build.
+Break.
+Refactor.
+Repeat.
+
+Average systems work.
+Interesting systems evolve.
+```
+
+---
+
+## Outside the Code
+
+- Linux tweaking at unreasonable hours
+- Testing experimental setups on hardware that probably deserves peace
+- Turning random ideas into side projects
+- Making “small improvements” that become 6-hour rabbit holes
+
+---
+
+<div align="center">
+
+### Open to collaborating on:
+AI systems • automation tooling • embedded projects • experimental builds
+
+</div>

@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Multiple projects**
 
-- 🌱 I’m currently learning **Full Stack**
+- 🌱 I’m currently learning **RPA and Automations**
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 👯 I’m looking to collaborate on **Agentic AI Projects**
 
 - 🤝 I’m looking for help with **React Projects**
 

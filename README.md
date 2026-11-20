@@ -1,197 +1,78 @@
 <div align="center">
 
-# Varshith
+```text
+ __     __            _     _ _   _     
+ \ \   / /_ _ _ __ ___| |__ (_) |_| |__  
+  \ \ / / _` | '__/ __| '_ \| | __| '_ \ 
+   \ V / (_| | |  \__ \ | | | | |_| | | |
+    \_/ \__,_|_|  |___/_| |_|_|\__|_| |_|
+```
 
-### Building systems that mix AI, automation, software, and hardware.
+**`> I build systems that ship._`**
 
-<p>
-  <a href="mailto:alonewalker07827@gmail.com">Email</a> •
-  <a href="https://github.com/varshith07827">GitHub</a>
-</p>
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=39D353&center=true&vCenter=true&width=560&lines=AI+%C2%B7+Full-Stack+%C2%B7+Automation;SE+Intern+%40+BrainyMed;9%C3%97+Hackathon+Winner;590%2B+problems+solved)](https://github.com/Varshith07827)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saivarshith--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivarshith-/)
+![Profile views](https://komarev.com/ghpvc/?username=Varshith07827&style=for-the-badge&color=39d353&label=VIEWS)
 
 </div>
 
----
-
-## About
-
-I like building things that feel slightly over-engineered for no reason other than curiosity.
-
-Most of my work lives somewhere between:
-
-- AI experimentation
-- automation systems
-- NFC/payment workflows
-- developer tooling
-- embedded + hardware integrations
-- Linux and infrastructure tinkering
-
-Currently exploring how intelligent systems interact with real-world workflows instead of staying trapped inside demos.
-
----
-
-## Current Focus
-
-```txt
-→ Agentic AI systems
-→ RPA + workflow automations
-→ NFC-based transaction systems
-→ AI + embedded integrations
-→ Dev tooling and system optimization
-→ Real-world software architecture
+```text
+┌──────────────────────────── whoami ────────────────────────────┐
+│  name      : Venkata Sai Varshith S.                           │
+│  role      : Software Engineering Intern @ BrainyMed (remote)  │
+│  degrees   : B.Tech CS @ GVPCDPGC  +  B.Sc DS @ IIT Madras     │
+│  lead      : Technical Lead, AI/ML & Data Science @ Novus Club │
+│  location  : Visakhapatnam, India                              │
+│  wins      : 9 hackathons · #29 globally on Codolio            │
+│  seeking   : AI/ML internships · research · startup projects   │
+└────────────────────────────────────────────────────────────────┘
 ```
 
----
+## `~/shipped`
 
-## Engineering Interests
+Deployed infrastructure people use, not prototypes that collect stars.
 
-| Area | What I Like Building |
-|---|---|
-| AI/ML | GAN experiments, intelligent workflows, automation agents |
-| Systems | Linux environments, tooling, infrastructure, optimization |
-| Hardware | NFC systems, sensors, embedded integrations |
-| Backend | APIs, automation pipelines, database-backed systems |
-| Developer Experience | Productivity tooling, scripting, workflow simplification |
-| Experimentation | Trying weird ideas just to see if they break gloriously |
+```text
+ ▸ NFC payment system     running on campus
+ ▸ Real-time CV pipeline  watches for intruders
+ ▸ BLE mesh network       keeps phones connected when Wi-Fi fails
+ ▸ ML visualization       walk through it in VR
+ ▸ Mantis                 Playwright record-and-replay automation platform
+ ▸ Quantum Axiona         quantum circuit playground (Flask + Qiskit + React)
+```
 
----
+## `~/stack`
 
-## Featured Builds
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### ByteCoins — NFC Payment Ecosystem
-An NFC-powered transaction system designed for controlled real-world usage scenarios.
-
-**Focus areas**
-- Secure NFC workflows
-- Role-based admin control
-- Authentication systems
-- Payment integration architecture
-- Java backend logic
-
----
-
-### AI Art Generation Experiments
-Building GAN/TensorFlow-based systems for procedural and AI-assisted art generation.
-
-**Exploring**
-- image synthesis
-- model optimization
-- GPU workflows
-- training pipelines
-
----
-
-### Automation & RPA Workflows
-Experimenting with systems that reduce repetitive digital work using automation agents and workflow orchestration.
-
-Tech includes:
-- Selenium
-- Puppeteer
-- Python automation
-- scripting pipelines
-
----
-
-### Embedded Obstacle Detection System
-Real-time obstacle detection using ultrasonic sensors + servo motion systems.
-
-Built around:
-- hardware interaction
-- sensor control
-- real-time feedback systems
-
----
-
-## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
-
----
-
-### AI / Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-111?style=for-the-badge&logo=pandas)
-
----
-
-### Backend / Infra
-
-![NodeJS](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-111?style=for-the-badge&logo=firebase)
-![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux)
-
----
-
-### Automation / Tooling
-
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![Selenium](https://img.shields.io/badge/Selenium-111?style=for-the-badge&logo=selenium)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-111?style=for-the-badge&logo=puppeteer)
-![Arduino](https://img.shields.io/badge/Arduino-111?style=for-the-badge&logo=arduino)
-
----
-
-## GitHub Analytics
+## `~/stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varshith07827&show_icons=true&hide_border=true&theme=transparent" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshith07827&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Varshith07827)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith07827&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/Varshith07827)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith07827&layout=compact&hide_border=true&theme=transparent" />
+[![Streak](https://streak-stats.demolab.com?user=Varshith07827&theme=github-dark-blue&hide_border=true)](https://github.com/Varshith07827)
 
 </div>
 
----
-
-## Currently Learning
-
-- Agentic AI architectures
-- Automation orchestration
-- Better system design patterns
-- GPU optimization workflows
-- Production-grade application structure
-
----
-
-## Philosophy
-
-```txt
-Build.
-Break.
-Refactor.
-Repeat.
-
-Average systems work.
-Interesting systems evolve.
+```text
+   ╔══════════════════════════════════════════════════╗
+   ║  If you're building something hard,              ║
+   ║  I'm probably already thinking about the         ║
+   ║  same problem.   →  let's talk.                  ║
+   ╚══════════════════════════════════════════════════╝
 ```
-
----
-
-## Outside the Code
-
-- Linux tweaking at unreasonable hours
-- Testing experimental setups on hardware that probably deserves peace
-- Turning random ideas into side projects
-- Making “small improvements” that become 6-hour rabbit holes
-
----
-
-<div align="center">
-
-### Open to collaborating on:
-AI systems • automation tooling • embedded projects • experimental builds
-
-</div>
